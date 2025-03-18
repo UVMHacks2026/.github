@@ -6,8 +6,6 @@ UVM Hacks 2025 is the second annual hackathon at the University of Vermont. Prod
 
 ## Competition Results
 
-_More information will be added later_
-
 ### Winning Team: BashProShop
 
 **Repository:** https://github.com/UVMHacks2025/BashProShop
