@@ -4,6 +4,10 @@ _February 27th and February 28th, 2026_
 
 UVM Hacks 2026 is the third annual hackathon at the University of Vermont. Produced by a collaboration between computer science and business and including students from Middlebury College and Champlain College, this event seeks to find new and interesting ways for the technical and business communities up here to collaborate.
 
+Read the CEMS article: [Hack to the Future: Students Race the Clock to Build Real World Solutions in a Marathon of Chaotic Creativity.](https://www.uvm.edu/cems/cs/news/hack-future)
+
+All code repositories are public; some teams have multiple repositories.
+
 ## Competition Results
 
 ### First Place Team: Handoff AI
