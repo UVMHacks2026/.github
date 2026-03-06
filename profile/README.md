@@ -32,8 +32,8 @@ Ryan Buck, Deris OMalley, Thomas Flavin, and Christopher Eichert (Champlain Coll
 
 ## Credits
 
-_UVM Hacks 2025 brought to you by..._
+_UVM Hacks 2026 brought to you by..._
 
-| [The UVM Department of Computer Science](https://uvm.edu/cems/cs) | [UVM SWiCS (Society for Women in Computer Science)](https://swics.w3.uvm.edu/) | [UVM CS Crew (Computer Science Crew)](https://github.com/uvm-cscrew) |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| ![UVM Computer Science](/csdept-logo.png)                         | ![](/swicslogo.svg)                                                            | ![](/CSCrewLogoBanner.png)                                           |
+| [The UVM College of Engineering and Mathematical Sciences](https://uvm.edu/cems) | [UVM SWiCS (Society for Women in Computer Science)](https://swics.w3.uvm.edu/) | [UVM CS Crew (Computer Science Crew)](https://github.com/uvm-cscrew) |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| ![UVM Computer Science](/csdept-logo.png)                                        | ![](/swicslogo.svg)                                                            | ![](/CSCrewLogoBanner.png)                                           |
